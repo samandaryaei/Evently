@@ -1,5 +1,4 @@
-﻿using System.Data;
-using System.Data.Common;
+﻿using System.Data.Common;
 using System.Threading.Tasks;
 using Evently.Modules.Events.Application.Abstractions.Data;
 using Npgsql;
