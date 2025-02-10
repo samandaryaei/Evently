@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Evently.Modules.Events.Domain.Abstractions;
+namespace Evently.Common.Domain;
 
 public abstract class Entity
 {

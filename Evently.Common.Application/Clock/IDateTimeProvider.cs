@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Evently.Modules.Events.Application.Abstractions.Clock;
+namespace Evently.Common.Application.Clock;
 
 public interface IDateTimeProvider
 {

@@ -1,6 +1,6 @@
 ﻿using System;
+using Evently.Common.Domain;
 using Evently.Modules.Events.Application.Events.SearchEvents;
-using Evently.Modules.Events.Domain.Abstractions;
 using Evently.Modules.Events.Presentation.ApiResults;
 using MediatR;
 using Microsoft.AspNetCore.Builder;

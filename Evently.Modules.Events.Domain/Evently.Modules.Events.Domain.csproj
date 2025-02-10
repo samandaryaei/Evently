@@ -4,4 +4,8 @@
         <TargetFramework>net8.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Evently.Common.Domain\Evently.Common.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
