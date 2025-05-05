@@ -42,4 +42,7 @@ public class Result<TValue> : Result
             : throw new InvalidOperationException("The Value of a failure result can not be accessed.");
 
     public static implicit operator Result<TValue>(TValue? value) => Create(value);
+    
+    public static Result<TValue> ValidationFailure(Error error) =>
+        new(default, false, error);
 }

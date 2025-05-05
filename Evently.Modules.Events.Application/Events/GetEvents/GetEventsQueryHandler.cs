@@ -3,9 +3,9 @@ using System.Data.Common;
 using System.Threading;
 using System.Threading.Tasks;
 using Dapper;
+using Evently.Common.Application.Data;
 using Evently.Common.Application.Messaging;
 using Evently.Common.Domain;
-using Evently.Modules.Events.Application.Abstractions.Data;
 
 namespace Evently.Modules.Events.Application.Events.GetEvents;
 

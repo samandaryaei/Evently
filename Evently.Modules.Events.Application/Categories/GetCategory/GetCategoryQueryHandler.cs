@@ -2,9 +2,9 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Dapper;
+using Evently.Common.Application.Data;
 using Evently.Common.Application.Messaging;
 using Evently.Common.Domain;
-using Evently.Modules.Events.Application.Abstractions.Data;
 using Evently.Modules.Events.Domain.Categories;
 
 namespace Evently.Modules.Events.Application.Categories.GetCategory;
