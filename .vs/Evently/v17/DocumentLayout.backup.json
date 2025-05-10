@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saman\\RiderProjects\\Evently\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46DF4429-219A-4F21-919D-124329B2A5D6}|Evently.Api\\Evently.Api.csproj|c:\\users\\saman\\riderprojects\\evently\\evently.api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DF4429-219A-4F21-919D-124329B2A5D6}|Evently.Api\\Evently.Api.csproj|solutionrelative:evently.api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DF4429-219A-4F21-919D-124329B2A5D6}|Evently.Api\\Evently.Api.csproj|c:\\users\\saman\\riderprojects\\evently\\evently.api\\extensions\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DF4429-219A-4F21-919D-124329B2A5D6}|Evently.Api\\Evently.Api.csproj|solutionrelative:evently.api\\extensions\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|c:\\users\\saman\\riderprojects\\evently\\evently.common.application\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|solutionrelative:evently.common.application\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|c:\\users\\saman\\riderprojects\\evently\\evently.common.application\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|solutionrelative:evently.common.application\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|c:\\users\\saman\\riderprojects\\evently\\evently.common.application\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D7F616-E3F1-4A90-BB27-28D9CF96EE01}|Evently.Common.Application\\Evently.Common.Application.csproj|solutionrelative:evently.common.application\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Api\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "Evently.Api\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Api\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "Evently.Api\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:59:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Api\\Extensions\\ConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Evently.Api\\Extensions\\ConfigurationExtensions.cs",
+              "ToolTip": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Api\\Extensions\\ConfigurationExtensions.cs",
+              "RelativeToolTip": "Evently.Api\\Extensions\\ConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:59:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Clock\\IDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "Evently.Common.Application\\Clock\\IDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Clock\\IDateTimeProvider.cs",
+              "RelativeToolTip": "Evently.Common.Application\\Clock\\IDateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:58:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Evently.Common.Application\\Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "Evently.Common.Application\\Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:58:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Data\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Evently.Common.Application\\Data\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Saman\\RiderProjects\\Evently\\Evently.Common.Application\\Data\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "Evently.Common.Application\\Data\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:58:54.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
